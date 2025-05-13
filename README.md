@@ -95,10 +95,10 @@ Available options:
 --max-duration value        Split video into segments every N minutes ('0' to disable) (default: 0)
 --max-filesize value        Split video into segments every N MB ('0' to disable) (default: 0)
 --port value, -p value      Port for the web interface and API (default: "8080")
---interval value            Check if the channel is online every N minutes (default: 1)
+--interval value            Check if the channel is online every N minutes (default: 2)
 --cookies value             Cookies to use in the request (format: key=value; key2=value2)
 --user-agent value          Custom User-Agent for the request
---domain value              Chaturbate domain to use (default: "https://chaturbate.global/")
+--domain value              Chaturbate domain to use (default: "https://chaturbate.com/")
 --help, -h                  show help
 --version, -v               print the version
 ```
