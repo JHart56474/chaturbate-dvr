@@ -83,7 +83,7 @@ func main() {
 			&cli.IntFlag{
 				Name:  "interval",
 				Usage: "Check if the channel is online every N minutes",
-				Value: 1,
+				Value: 2,
 			},
 			&cli.StringFlag{
 				Name:  "cookies",
